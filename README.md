@@ -192,7 +192,7 @@ This project fully satisfies the assignment:
 .
 ## 📸 Screenshot of Working UI
 
-![App UI](screenshots/ui-demo.png)
+![App UI](screenshot/ui-demo.png)
 ---
 
 
