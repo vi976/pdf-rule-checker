@@ -1,0 +1,21 @@
+# -----------------------------
+# Backend
+# -----------------------------
+backend/venv/
+backend/__pycache__/
+backend/.env
+
+# -----------------------------
+# Frontend
+# -----------------------------
+frontend/node_modules/
+frontend/dist/
+
+# Ignore accidental nested frontend folder
+frontend/frontend/
+
+# Python cache
+**/__pycache__/
+
+# Windows files
+Thumbs.db

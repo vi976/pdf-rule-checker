@@ -190,7 +190,9 @@ This project fully satisfies the assignment:
 ✔ Complete frontend + backend integration
 
 .
+## 📸 Screenshot of Working UI
 
+![App UI](screenshots/ui-demo.png)
 ---
 
 
