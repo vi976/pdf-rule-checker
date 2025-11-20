@@ -1,0 +1,9 @@
+# Ignore the broken nested frontend folder
+frontend/frontend/
+
+# Regular ignores
+node_modules/
+dist/
+venv/
+__pycache__/
+.env

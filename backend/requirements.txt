@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pdfplumber
+openai
+aiofiles
+python-multipart
+# Optional for OCR:
+pytesseract
+Pillow
